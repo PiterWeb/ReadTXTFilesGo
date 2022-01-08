@@ -8,10 +8,10 @@
 
 Created with Go Lang (This is my first Hello World with the language)
 
-## How to use:
+## How to use
 
 * To read TXT files from another path **```$ readtxtfiles.exe <Path>```**
 
-## Build:
+## Build
 
 **```$ go build```** (on project directory)
