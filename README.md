@@ -14,4 +14,4 @@ Created with Go Lang (This is my first Hello World with the language)
 
 ## Build:
 
-*$ go build* (on project directory)
+**```$ go build```** (on project directory)
